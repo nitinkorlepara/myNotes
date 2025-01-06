@@ -1,4 +1,4 @@
-# Distributed System
+# Distributed Systems
 
 ### Elements of a Distributed System
 
