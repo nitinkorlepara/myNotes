@@ -37,3 +37,4 @@ The most important functions of distributed computing are:
 - [Types of Distributed Systems](https://www.confluent.io/learn/distributed-systems/)
 - [Design Issues](https://www.geeksforgeeks.org/design-issues-of-distributed-system/)
 - [Dimestions of System Scalability design](https://medium.com/@Pointnity_Network/three-dimensions-of-distributed-system-scalability-design-8e0319163c8d#:~:text=Scalability%20is%20an%20important%20indicator,two%20aspects%3A%20hardware%20and%20software)
+- [CAP](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
