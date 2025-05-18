@@ -1,5 +1,14 @@
 # Spring Framework
 
+## Coupling
+
+- Loose Coupling
+  - easy to test and debug
+  - easy to replace
+- Tight Coupling
+  - difficult to replace
+  - tight relation between components
+
 Running Application from Command Line
 
 ```
