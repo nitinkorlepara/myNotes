@@ -9,7 +9,15 @@
   - difficult to replace
   - tight relation between components
 
-Running Application from Command Line
+## Spring container
+
+- BeanFActory
+- ApplicationContext
+
+## Spring
+
+- ![Spring](SpringCore.png)
+  Running Application from Command Line
 
 ```
 java -jar springdi-0.0.1-SNAPSHOT.jar

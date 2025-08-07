@@ -4,7 +4,6 @@ Distributing systems are used to solve problems.
 
 - Computation
 - Storage
-- Networking
 
 #### Elements of a Distributed System
 
@@ -22,6 +21,15 @@ The most important functions of distributed computing are:
 - **Consistency** - Giving correct result at any given time
 - **Availability** - System should be available at all times
 - **Partition tolerance** - even if one partition fails,system should be responsive
+
+#### Cache
+- temporary storage with high read speeds.
+- Cache invalidation 
+  - Write through -> updated data is written to both database and ache at the same time
+  - Write Around -> updated data is written to database first and then to cache
+  - write back -> cache is updated first and then the database in specified time intervals 
+
+-   
 
 #### Scaling in Distributed System
 

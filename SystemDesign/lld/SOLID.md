@@ -3,7 +3,16 @@
 Single Responsiblity
 
 - A class should have one and only one reason to change, meaning that a class should have only one job.
-
+```
+    class person{
+        private string name;
+        private Address address;
+        private float bankBalance;// this is not required here 
+    }
+    //Above class could be dividede into two seprate classes 
+    Person and BankAccount
+    
+```
 Open Closed
 
 - Objects or entities should be open for extension but closed for modification.
