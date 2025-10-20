@@ -23,13 +23,15 @@ The most important functions of distributed computing are:
 - **Partition tolerance** - even if one partition fails,system should be responsive
 
 #### Cache
+
 - temporary storage with high read speeds.
-- Cache invalidation 
+- Cache invalidation
+
   - Write through -> updated data is written to both database and ache at the same time
   - Write Around -> updated data is written to database first and then to cache
-  - write back -> cache is updated first and then the database in specified time intervals 
+  - write back -> cache is updated first and then the database in specified time intervals
 
--   
+-
 
 #### Scaling in Distributed System
 
@@ -46,3 +48,5 @@ The most important functions of distributed computing are:
 - [Design Issues](https://www.geeksforgeeks.org/design-issues-of-distributed-system/)
 - [Dimestions of System Scalability design](https://medium.com/@Pointnity_Network/three-dimensions-of-distributed-system-scalability-design-8e0319163c8d#:~:text=Scalability%20is%20an%20important%20indicator,two%20aspects%3A%20hardware%20and%20software)
 - [CAP](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [SOA](https://www.ibm.com/think/topics/soa#:~:text=SOA%2C%20or%20service%2Doriented%20architecture,perform%20deep%20integration%20each%20time)
+- [Microservices](https://microservices.io/)
